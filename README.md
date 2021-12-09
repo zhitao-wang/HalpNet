@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pairwise Learning for Neural Link Prediction for OGB (PLNLP-OGB)
 This repository provides evaluation codes of PLNLP for OGB link property prediction task. The idea of PLNLP is described in the following article:
 >**Pairwise Learning for Neural Link Prediction (https://arxiv.org/pdf/2112.02936.pdf)**
@@ -42,3 +43,7 @@ This work is based on our previous work as listed below:
 [3] Zhitao Wang, Yu Lei and Wenjie Li. "Neighborhood Attention Networks with Adversarial Learning for Link Prediction " (TNNLS) [[Paper](https://ieeexplore.ieee.org/document/9174790)]
 
 
+=======
+# HalpNet
+Code for Hierarchical Attention Link Prediction Neural Network
+>>>>>>> a193cf19743f0b0187413ae6a4b7251c6bd7248e
